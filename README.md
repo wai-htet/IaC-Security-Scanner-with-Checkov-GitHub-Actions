@@ -42,7 +42,11 @@ Check: CKV_AWS_20: "S3 Bucket should have server-side encryption enabled"
 FAILED for resource: aws_s3_bucket.my_bucket
 ...
 ```
+
+
 ![Iac-Security-Scanner-with-Checkov-Github-Actions](assets/![image](https://github.com/user-attachments/assets/4df3ffe6-08e2-422f-a892-7106ea1e3c86)
+
+
 
 ## Enterprise Scaling
  This lightweight demo could scale with:
